@@ -9,7 +9,7 @@ I am a passionate developer currently mastering **Python** and modern web techno
 ### 🛠️ My Technical Toolbox
 - **Languages:** Python (Core), HTML5, CSS3
 - **Tools:** VS Code, Git & GitHub
-- **Specialties:** Task Automation, Data Scraping, Web Design
+- **Specialties:** Task Automation, Data Scraping, Web Design, wordpress
 
 ---
 
